@@ -218,7 +218,7 @@ flex-direction: column;
 }
 .mainlogo img{
   height: 170px;
-  width: 100%;
+  width: 80%;
 }
 
 }
@@ -250,7 +250,7 @@ flex-direction: column;
 }
 .mainlogo img{
   height: 170px;
-  width: 400px;
+  width: 300px;
 }
 
 
@@ -267,7 +267,7 @@ flex-direction: column;
 }
 .mainlogo img{
   height: 170px;
-  width: 400px;
+  width: 300px;
 }
 
 
@@ -283,7 +283,7 @@ flex-direction: column;
 }
 .mainlogo img{
   height: 170px;
-  width: 400px;
+  width: 300px;
 }
 
 
@@ -299,6 +299,6 @@ flex-direction: column;
   }
   .mainlogo img{
     height: 170px;
-    width: 400px;
+    width: 300px;
   }
   
