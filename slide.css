@@ -212,6 +212,11 @@ flex-direction: column;
 .about{
   flex-direction: column;
 }
+.mainlogo{
+  background-color: brown;
+  height: 180px;
+  width:100%;
+}
 
 }
 
@@ -236,6 +241,11 @@ flex-direction: column;
   width: 100%;
   position: absolute;
 }
+.mainlogo{
+  background-color: brown;
+  height: 180px;
+  width:100%;
+}
 
   
 
@@ -248,7 +258,11 @@ flex-direction: column;
   .about{
     flex-direction: column;
 }
-
+.mainlogo{
+  background-color: brown;
+  height: 180px;
+  width:100%;
+}
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
@@ -259,6 +273,11 @@ flex-direction: column;
     flex-direction: column;
 
 }
+.mainlogo{
+  background-color: brown;
+  height: 180px;
+  width:100%;
+}
 
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
@@ -268,4 +287,9 @@ flex-direction: column;
   }
   .about{
     flex-direction: column;
+  }
+  .mainlogo{
+    background-color: brown;
+    height: 180px;
+    width:100%;
   }
