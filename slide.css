@@ -214,8 +214,11 @@ flex-direction: column;
 }
 .mainlogo{
   background-color: brown;
-  height: 180px;
-  width:100%;
+  
+}
+.mainlogo img{
+  height: 170px;
+  width: 400px;
 }
 
 }
@@ -243,9 +246,13 @@ flex-direction: column;
 }
 .mainlogo{
   background-color: brown;
-  height: 180px;
-  width:100%;
+  
 }
+.mainlogo img{
+  height: 170px;
+  width: 400px;
+}
+
 
   
 
@@ -258,11 +265,12 @@ flex-direction: column;
   .about{
     flex-direction: column;
 }
-.mainlogo{
-  background-color: brown;
-  height: 180px;
-  width:100%;
+.mainlogo img{
+  height: 170px;
+  width: 400px;
 }
+
+
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
@@ -273,11 +281,12 @@ flex-direction: column;
     flex-direction: column;
 
 }
-.mainlogo{
-  background-color: brown;
-  height: 180px;
-  width:100%;
+.mainlogo img{
+  height: 170px;
+  width: 400px;
 }
+
+
 
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
@@ -288,8 +297,8 @@ flex-direction: column;
   .about{
     flex-direction: column;
   }
-  .mainlogo{
-    background-color: brown;
-    height: 180px;
-    width:100%;
+  .mainlogo img{
+    height: 170px;
+    width: 400px;
   }
+  
