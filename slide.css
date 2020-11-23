@@ -218,7 +218,7 @@ flex-direction: column;
 }
 .mainlogo img{
   height: 170px;
-  width: 300px;
+  width: 100%;
 }
 
 }
@@ -250,7 +250,7 @@ flex-direction: column;
 }
 .mainlogo img{
   height: 170px;
-  width: 300px;
+  width: 400px;
 }
 
 
